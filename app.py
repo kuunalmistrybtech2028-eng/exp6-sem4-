@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return "Name: Kuunal | AppID: 2410286"
+    return "Webhook Trigger Success 🚀"
 
 if __name__ == '__main__':
     app.run()
