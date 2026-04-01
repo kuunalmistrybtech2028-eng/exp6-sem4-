@@ -7,4 +7,4 @@ def home():
     return "Webhook Trigger Success 🚀"
 
 if __name__ == '__main__':
-    app.run()
+    print("Build successful 🚀")
